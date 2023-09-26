@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NelxOttergram/static/css/main.38acb2cd.css",
+    "main.js": "/NelxOttergram/static/js/main.f21167d8.js",
+    "static/js/787.4ee79baa.chunk.js": "/NelxOttergram/static/js/787.4ee79baa.chunk.js",
+    "static/media/otter1.jpg": "/NelxOttergram/static/media/otter1.a2a24a973700a6108dad.jpg",
+    "static/media/otter4.jpg": "/NelxOttergram/static/media/otter4.43fea2549a1c1101ac58.jpg",
+    "static/media/otter3.jpg": "/NelxOttergram/static/media/otter3.a750159dae8ab8f3c3f1.jpg",
+    "static/media/otter2.jpg": "/NelxOttergram/static/media/otter2.ea0175b8485a045a4de7.jpg",
+    "static/media/otter5.jpg": "/NelxOttergram/static/media/otter5.d4bad69f7cb5fda1ba0b.jpg",
+    "index.html": "/NelxOttergram/index.html",
+    "main.38acb2cd.css.map": "/NelxOttergram/static/css/main.38acb2cd.css.map",
+    "main.f21167d8.js.map": "/NelxOttergram/static/js/main.f21167d8.js.map",
+    "787.4ee79baa.chunk.js.map": "/NelxOttergram/static/js/787.4ee79baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38acb2cd.css",
+    "static/js/main.f21167d8.js"
+  ]
+}
